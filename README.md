@@ -73,8 +73,8 @@ Read the input image in color mode.
 
 ### Developed By:
 ```
-Name: Shree Chandru R
-Register No: 212224230264
+Name: Kishor kumar B
+Register No: 212223240072
 ```
 ##  Program
 ~~~
